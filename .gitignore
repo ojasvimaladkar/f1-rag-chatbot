@@ -1,0 +1,12 @@
+venv/
+.env
+embeddings/
+data/
+logs/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+test_gemini.py
+test_groq.py
+debug.py

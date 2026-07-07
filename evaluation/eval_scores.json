@@ -1,0 +1,90 @@
+{
+  "scores": {
+    "faithfulness": 0.8,
+    "answer_relevancy": 1.0,
+    "context_quality": 0.9400000000000001,
+    "overall": 0.9133333333333334
+  },
+  "per_question": [
+    {
+      "question": "Who won the 2021 Formula 1 drivers championship?",
+      "ground_truth": "Max Verstappen won the 2021 Formula 1 drivers championship driving for Red Bull Racing.",
+      "answer": "Max Verstappen won the 2021 Formula One World Championship driving for Red Bull Racing with 395.5 points. (Source: [1] season_summary)",
+      "faithfulness": 0.8,
+      "answer_relevancy": 1.0,
+      "context_quality": 1.0
+    },
+    {
+      "question": "Which team won the 2022 constructors championship?",
+      "ground_truth": "Red Bull won the 2022 constructors championship with 759 points and 17 wins.",
+      "answer": "Red Bull won the 2022 constructors championship with 759 points. \n(Source: season_summary, Standings \u2014 constructor_standings 2022)",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_quality": 1.0
+    },
+    {
+      "question": "What is DRS in Formula 1?",
+      "ground_truth": "DRS stands for Drag Reduction System. It is a driver-adjustable rear wing that reduces aerodynamic drag to increase top speed and promote overtaking. It can only be used when a driver is within one second of the car ahead.",
+      "answer": "DRS in Formula 1 is a form of driver-adjustable bodywork aimed at reducing aerodynamic drag in order to increase top speed and promote overtaking. It is an adjustable rear wing of the car, which moves in response to driver commands. (Source: Wikipedia \u2014 Drag_reduction_system)",
+      "faithfulness": 0.4,
+      "answer_relevancy": 1.0,
+      "context_quality": 0.8
+    },
+    {
+      "question": "What is Max Verstappen's nationality?",
+      "ground_truth": "Max Verstappen is Dutch. He competes under the Dutch flag.",
+      "answer": "Max Verstappen's nationality is Dutch. (Source: [1] Driver Profile \u2014 Max Verstappen, [2] Wikipedia \u2014 Max_Verstappen)",
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_quality": 1.0
+    },
+    {
+      "question": "Who won the 2018 Monaco Grand Prix?",
+      "ground_truth": "Daniel Ricciardo won the 2018 Monaco Grand Prix driving for Red Bull.",
+      "answer": "Daniel Ricciardo (Red Bull) won the 2018 Monaco Grand Prix, finishing with 25 points and a status of Finished. (Source: [1] Race Result \u2014 Monaco Grand Prix 2018)",
+      "faithfulness": 0.8,
+      "answer_relevancy": 1.0,
+      "context_quality": 0.8
+    },
+    {
+      "question": "Which team won the 2019 constructors championship?",
+      "ground_truth": "Mercedes won the 2019 constructors championship with 739 points and 15 wins.",
+      "answer": "Mercedes won the 2019 constructors championship with 739 points. (Source: season_summary, Standings \u2014 constructor_standings 2019)",
+      "faithfulness": 0.8,
+      "answer_relevancy": 1.0,
+      "context_quality": 1.0
+    },
+    {
+      "question": "What is Lewis Hamilton's nationality?",
+      "ground_truth": "Lewis Hamilton is British.",
+      "answer": "Lewis Hamilton's nationality is British. (Source: [1] Driver Profile \u2014 Lewis Hamilton)",
+      "faithfulness": 0.8,
+      "answer_relevancy": 1.0,
+      "context_quality": 1.0
+    },
+    {
+      "question": "Who came second in the 2021 drivers championship?",
+      "ground_truth": "Lewis Hamilton finished second in the 2021 drivers championship with 387.5 points and 8 wins.",
+      "answer": "Lewis Hamilton (Mercedes) came second in the 2021 drivers championship with 387.5 points and 8 wins. (Source: [1] Standings \u2014 driver_standings 2021)",
+      "faithfulness": 0.8,
+      "answer_relevancy": 1.0,
+      "context_quality": 1.0
+    },
+    {
+      "question": "What circuit hosts the Monaco Grand Prix?",
+      "ground_truth": "The Monaco Grand Prix is held at the Circuit de Monaco, a street circuit in Monte Carlo.",
+      "answer": "The Circuit de Monaco hosts the Monaco Grand Prix. (Source: [1], [2], [3], [5])",
+      "faithfulness": 0.8,
+      "answer_relevancy": 1.0,
+      "context_quality": 1.0
+    },
+    {
+      "question": "How many championships has Max Verstappen won?",
+      "ground_truth": "Max Verstappen has won four Formula One World Drivers Championship titles consecutively from 2021 to 2024.",
+      "answer": "Max Verstappen has won four Formula One World Drivers' Championship titles, which he won consecutively from 2021 to 2024. (Source: Wikipedia \u2014 Max_Verstappen)",
+      "faithfulness": 0.8,
+      "answer_relevancy": 1.0,
+      "context_quality": 0.8
+    }
+  ]
+}

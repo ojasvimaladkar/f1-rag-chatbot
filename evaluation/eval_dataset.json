@@ -1,0 +1,42 @@
+[
+    {
+        "question": "Who won the 2021 Formula 1 drivers championship?",
+        "ground_truth": "Max Verstappen won the 2021 Formula 1 drivers championship driving for Red Bull Racing."
+    },
+    {
+        "question": "Which team won the 2022 constructors championship?",
+        "ground_truth": "Red Bull won the 2022 constructors championship with 759 points and 17 wins."
+    },
+    {
+        "question": "What is DRS in Formula 1?",
+        "ground_truth": "DRS stands for Drag Reduction System. It is a driver-adjustable rear wing that reduces aerodynamic drag to increase top speed and promote overtaking. It can only be used when a driver is within one second of the car ahead."
+    },
+    {
+        "question": "What is Max Verstappen's nationality?",
+        "ground_truth": "Max Verstappen is Dutch. He competes under the Dutch flag."
+    },
+    {
+        "question": "Who won the 2018 Monaco Grand Prix?",
+        "ground_truth": "Daniel Ricciardo won the 2018 Monaco Grand Prix driving for Red Bull."
+    },
+    {
+        "question": "Which team won the 2019 constructors championship?",
+        "ground_truth": "Mercedes won the 2019 constructors championship with 739 points and 15 wins."
+    },
+    {
+        "question": "What is Lewis Hamilton's nationality?",
+        "ground_truth": "Lewis Hamilton is British."
+    },
+    {
+        "question": "Who came second in the 2021 drivers championship?",
+        "ground_truth": "Lewis Hamilton finished second in the 2021 drivers championship with 387.5 points and 8 wins."
+    },
+    {
+        "question": "What circuit hosts the Monaco Grand Prix?",
+        "ground_truth": "The Monaco Grand Prix is held at the Circuit de Monaco, a street circuit in Monte Carlo."
+    },
+    {
+        "question": "How many championships has Max Verstappen won?",
+        "ground_truth": "Max Verstappen has won four Formula One World Drivers Championship titles consecutively from 2021 to 2024."
+    }
+]
